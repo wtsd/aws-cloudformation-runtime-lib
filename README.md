@@ -1,6 +1,6 @@
 # AWS CloudFormation Quickstarts -- Multi-Runtime (Python, PHP, Node.js, Go)
 
-Turn-key CloudFormation templates to **clone, tweak, and deploy**.
+Kickstart CloudFormation templates to easily **clone, tweak, and deploy**.
 
 Note-to-self: Check the latest CVE.
 
